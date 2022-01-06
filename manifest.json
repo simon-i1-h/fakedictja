@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "fakedictja",
+  "version": "1.0.0",
+  "applications": {
+    "gecko": {
+      "id": "fakedictja@postfixnotation.org"
+    }
+  },
+  "dictionaries": {
+    "ja": "dictionaries/ja.dic"
+  }
+}
